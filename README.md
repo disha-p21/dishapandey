@@ -24,15 +24,11 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning student** passionate a
 - 💻 Building AI-powered applications using Python
 
 ---
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=disha-p21&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disha-p21&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=disha-p21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disha-p21&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -40,23 +36,26 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning student** passionate a
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=disha-p21&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=disha-p21&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 My GitHub
-
-You can explore my projects, contributions and development journey here:
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/disha-p21">
-    <img src="https://img.shields.io/badge/GitHub-disha--p21-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=disha-p21&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=disha-p21&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
 # 🌐 Connect With Me
 
 <p align="left">
