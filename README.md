@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="./assets/cosmic-banner.jpg" width="100%" alt="Cosmic Space">
+</p>
+
+<br>
+
+<h1 align="center">🌌 Disha Pandey</h1>
+
+<p align="center">
+  <b>Artificial Intelligence & Machine Learning • Exploring Space AI</b>
+</p>
 # 💫 About Me:
 My name is Disha Pandey. I am a B.Tech student specializing in Artificial Intelligence and Machine Learning. I am passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, NLP, LLMs, RAG, MLOps, and Cloud AI.<br><br>My long-term career goal is to become an AI Engineer working in Space Technology, especially Space AI, autonomous systems, satellite intelligence, aerospace applications, and AI for defense and mission-critical systems.<br><br>I enjoy building practical AI projects rather than only studying theory. My projects include:<br><br>My technical skills include:<br><br>Programming:<br>Python, C++, Java, JavaScript<br><br>AI/ML:<br>Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, LLMs, RAG, Reinforcement Learning<br><br>Frameworks/Libraries:<br>PyTorch, TensorFlow, OpenCV, Flask, Gradio, NumPy, Matplotlib<br><br>Web:<br>HTML, CSS, JavaScript, Flask, Firebase<br><br>Cloud/Tools:<br>Google Cloud, Vertex AI, Git, GitHub, VS Code, Anaconda, Linux<br><br>I am currently learning:<br>Advanced Machine Learning, Deep Learning, Computer Vision, Generative AI, LLMs, RAG, MLOps, Cloud AI and autonomous AI systems.<br><br>My GitHub:<br>https://github.com/disha-p21<br><br>My LinkedIn:<br>https://www.linkedin.com/in/disha-pandey-120a24230/<br><br>My email:<br>dishapandey696@gmail.com<br><br>Design requirements:<br><br>Create the README as a visually impressive SPACE + AI themed profile.<br><br>Do NOT make it look like a generic developer README.<br><br>The visual identity should feel like:<br>🚀 Rocket Launch<br>🌌 Deep Space<br>🛰️ Mission Control<br>🪐 Planets and Orbit<br>🤖 Artificial Intelligence<br>📡 Satellite Telemetry<br>🌍 Earth Observation<br>✨ Future Technology<br><br>Use a dark/deep-space aesthetic with black, dark navy, purple, cyan and subtle futuristic elements.<br><br>The README should feel like an AI Space Mission Control dashboard.<br><br>Include:<br>- A cinematic space-themed introduction<br>- My name and professional headline<br>- Animated typing text if reliable<br>- Mission Control / System Profile section<br>- About Me section<br>- AI/ML areas of interest<br>- Technology stack with icons<br>- Featured Projects<br>- Current Learning / Mission<br>- 2026 Goals / Mission Objectives<br>- Space AI Future Mission section<br>- GitHub statistics<br>- GitHub streak<br>- GitHub trophies<br>- Contribution graph<br>- Social/contact links<br>- A final rocket-launch / deep-space themed closing section<br>
 
