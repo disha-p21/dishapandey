@@ -170,20 +170,6 @@ Areas that interest me include:
 - 🧠 AI-assisted Mission Systems
 - 🚀 Aerospace Applications
 
-# 🎯 2026 Goals
-
-- [ ] Strengthen advanced Machine Learning
-- [ ] Go deeper into Deep Learning
-- [ ] Build production-ready AI applications
-- [ ] Explore advanced Generative AI
-- [ ] Build more RAG-based systems
-- [ ] Improve MLOps & Cloud AI skills
-- [ ] Work on more Computer Vision projects
-- [ ] Explore AI applications in aerospace
-- [ ] Build projects related to Space AI
-- [ ] Contribute to Open Source
-
----
 
 # 📊 GitHub Analytics
 
