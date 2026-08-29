@@ -1,5 +1,7 @@
+<!-- ===================== COSMIC BANNER ===================== -->
+
 <p align="center">
-  <img src="./assets/cosmic-banner.jpg" width="100%" alt="Cosmic Space">
+  <img src="./assets/cosmic-banner.jpg" width="100%" alt="Cosmic Space Banner">
 </p>
 
 <br>
@@ -9,21 +11,242 @@
 <p align="center">
   <b>Artificial Intelligence & Machine Learning • Exploring Space AI</b>
 </p>
-# 💫 About Me:
-My name is Disha Pandey. I am a B.Tech student specializing in Artificial Intelligence and Machine Learning. I am passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, NLP, LLMs, RAG, MLOps, and Cloud AI.<br><br>My long-term career goal is to become an AI Engineer working in Space Technology, especially Space AI, autonomous systems, satellite intelligence, aerospace applications, and AI for defense and mission-critical systems.<br><br>I enjoy building practical AI projects rather than only studying theory. My projects include:<br><br>My technical skills include:<br><br>Programming:<br>Python, C++, Java, JavaScript<br><br>AI/ML:<br>Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, LLMs, RAG, Reinforcement Learning<br><br>Frameworks/Libraries:<br>PyTorch, TensorFlow, OpenCV, Flask, Gradio, NumPy, Matplotlib<br><br>Web:<br>HTML, CSS, JavaScript, Flask, Firebase<br><br>Cloud/Tools:<br>Google Cloud, Vertex AI, Git, GitHub, VS Code, Anaconda, Linux<br><br>I am currently learning:<br>Advanced Machine Learning, Deep Learning, Computer Vision, Generative AI, LLMs, RAG, MLOps, Cloud AI and autonomous AI systems.<br><br>My GitHub:<br>https://github.com/disha-p21<br><br>My LinkedIn:<br>https://www.linkedin.com/in/disha-pandey-120a24230/<br><br>My email:<br>dishapandey696@gmail.com<br><br>Design requirements:<br><br>Create the README as a visually impressive SPACE + AI themed profile.<br><br>Do NOT make it look like a generic developer README.<br><br>The visual identity should feel like:<br>🚀 Rocket Launch<br>🌌 Deep Space<br>🛰️ Mission Control<br>🪐 Planets and Orbit<br>🤖 Artificial Intelligence<br>📡 Satellite Telemetry<br>🌍 Earth Observation<br>✨ Future Technology<br><br>Use a dark/deep-space aesthetic with black, dark navy, purple, cyan and subtle futuristic elements.<br><br>The README should feel like an AI Space Mission Control dashboard.<br><br>Include:<br>- A cinematic space-themed introduction<br>- My name and professional headline<br>- Animated typing text if reliable<br>- Mission Control / System Profile section<br>- About Me section<br>- AI/ML areas of interest<br>- Technology stack with icons<br>- Featured Projects<br>- Current Learning / Mission<br>- 2026 Goals / Mission Objectives<br>- Space AI Future Mission section<br>- GitHub statistics<br>- GitHub streak<br>- GitHub trophies<br>- Contribution graph<br>- Social/contact links<br>- A final rocket-launch / deep-space themed closing section<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9B7EDE&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision;Generative+AI+%7C+LLMs+%7C+RAG;MLOps+%7C+Cloud+AI;Exploring+AI+for+Space+%26+Cosmos+%F0%9F%8C%8C" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <a href="https://github.com/disha-p21">
+    <img src="https://img.shields.io/badge/GitHub-disha--p21-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/disha-pandey-120a24230/">
+    <img src="https://img.shields.io/badge/LinkedIn-Disha%20Pandey-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:dishapandey696@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+# 💫 About Me
+
+Hi! I'm **Disha Pandey**, a B.Tech student specializing in **Artificial Intelligence and Machine Learning**.
+
+I'm passionate about building intelligent systems and exploring how AI can be applied to real-world problems.
+
+My interests include:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- ✨ Generative AI
+- 🗣️ NLP & Large Language Models
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🔄 MLOps
+- ☁️ Cloud AI
+- 🌌 Space AI & Autonomous Systems
+
+My long-term goal is to work at the intersection of **Artificial Intelligence and Space Technology**, exploring applications such as autonomous systems, satellite intelligence, aerospace technologies, Earth observation, and intelligent mission-critical systems.
+
+> 🌌 **Learning AI on Earth, dreaming beyond the cosmos.**
+
+---
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/disha_.core) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/disha-pandey-120a24230?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dishapandey696@gmail.com) 
+# 💻 Tech Stack
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=disha-p21&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=disha-p21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=disha-p21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 👩‍💻 Programming
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=A8B9CC">
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6">
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
+  <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
+  <img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=F7931E">
+  <img src="https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
+  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=013243">
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458">
+  <img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=matplotlib&logoColor=ffffff">
+</p>
+
+### ✨ Generative AI / NLP
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-111111?style=for-the-badge&logo=google-gemini&logoColor=8E75B2">
+  <img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=semanticweb&logoColor=00A67E">
+  <img src="https://img.shields.io/badge/NLP-111111?style=for-the-badge&logo=probot&logoColor=white">
+</p>
+
+### 🌐 Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28">
+  <img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=02569B">
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC">
+</p>
+
+### ☁️ Cloud / Tools / Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-111111?style=for-the-badge&logo=googlecloud&logoColor=4285F4">
+  <img src="https://img.shields.io/badge/Vertex%20AI-111111?style=for-the-badge&logo=googlecloud&logoColor=4285F4">
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624">
+  <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
+  <img src="https://img.shields.io/badge/Anaconda-111111?style=for-the-badge&logo=anaconda&logoColor=44A833">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1">
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248">
+  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E">
+  <img src="https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
+  <img src="https://img.shields.io/badge/Render-111111?style=for-the-badge&logo=render&logoColor=46E3B7">
+</p>
+
+---
+
+
+# 📚 Currently Learning
+
+```text
+🧠 Advanced Machine Learning
+   └── Improving model development & evaluation
+
+🤖 Deep Learning
+   └── Neural networks & advanced architectures
+
+👁️ Computer Vision
+   └── Image understanding & intelligent vision systems
+
+✨ Generative AI
+   └── LLMs, multimodal AI & AI applications
+
+🔎 RAG
+   └── Retrieval + Generation systems
+
+🔄 MLOps
+   └── Building & deploying reliable ML systems
+
+☁️ Cloud AI
+   └── Google Cloud & Vertex AI
+
+🛰️ Autonomous AI
+   └── Intelligent decision-making systems
+```
+
+---
+
+# 🌌 Future: Space AI
+
+One of my biggest interests is exploring how Artificial Intelligence can contribute to **space and aerospace technology**.
+
+Areas that interest me include:
+
+- 🛰️ Satellite Intelligence
+- 🌍 Earth Observation
+- 👁️ Satellite Image Analysis
+- 🤖 Autonomous Systems
+- 🧭 Intelligent Navigation
+- 🔎 Anomaly Detection
+- 📡 Space Communication
+- 🧠 AI-assisted Mission Systems
+- 🚀 Aerospace Applications
+
+# 🎯 2026 Goals
+
+- [ ] Strengthen advanced Machine Learning
+- [ ] Go deeper into Deep Learning
+- [ ] Build production-ready AI applications
+- [ ] Explore advanced Generative AI
+- [ ] Build more RAG-based systems
+- [ ] Improve MLOps & Cloud AI skills
+- [ ] Work on more Computer Vision projects
+- [ ] Explore AI applications in aerospace
+- [ ] Build projects related to Space AI
+- [ ] Contribute to Open Source
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=disha-p21&theme=dark&hide_border=true" alt="GitHub Streak">
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=disha-p21&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/disha-p21">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/disha-pandey-120a24230/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://instagram.com/disha_.core">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F">
+</a>
+
+<a href="mailto:dishapandey696@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335">
+</a>
+
+</p>
+
+---
+
+# 🌌 Final Transmission
+
+<p align="center">
+
+```text
+                         ✦
+              ✧                  ✦
+        ✦            🌌              ✧
+                    .    .
+             🪐                ✨
+                    ☄️
+        ✧                         ✦
+
+              KEEP LEARNING.
+              KEEP BUILDING.
+              KEEP EXPLORING.
+
+                    🌌
+```
+
+### 🌌 Exploring Intelligence Beyond Earth.
+
+<p align="center">
+  <b>✨ Learn • Build • Explore • Repeat ✨</b>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my corner of the universe.</i> 🌌
+</p>
