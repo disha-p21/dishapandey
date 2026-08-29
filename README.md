@@ -1,7 +1,7 @@
 <!-- ===================== COSMIC BANNER ===================== -->
 
 <p align="center">
-  <img src="./assets/cosmic-banner.jpg" width="100%" alt="Cosmic Space Banner">
+  <img src="./assets/k.jpg" width="100%" alt="Cosmic Space Banner">
 </p>
 
 <br>
